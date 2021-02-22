@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "photography"
+  "defaultProject": "photography",
+  "cli": {
+    "analytics": "5e5de343-7df4-442d-953f-3e56c58794b6"
+  }
 }
